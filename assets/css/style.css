@@ -81,6 +81,31 @@ footer a {
 
 }
 
+section {
+    padding: 60px;
+    
+}
+
+.hero {
+    background-image: url("../images/hero-bg.jpeg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    
+}
+
+.hero-form {
+    border:  3px solid #024e76;
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #024e76;
+    position: absolute;
+    bottom: 120px;
+    right: 140px;
+}  
+
 .hero-form h3 {
     font-size: 24px;
     margin: 0;
@@ -111,7 +136,6 @@ footer a {
 }
 
 
-
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -124,6 +148,7 @@ footer a {
     text-align: center;
     background: #fce138;
 }
+
 .steps div {
     margin-bottom: 80px;
 
