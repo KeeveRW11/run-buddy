@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:-//Splash Event Planning System
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20220702T172455Z
+UID:ec9280bdc152d4325a791036579c69301186b97b@cen-careerswitc
+ hers071122.splashthat.com
+URL:https://cen-careerswitchers071122.splashthat.com/virtual
+ ?guest-access-hash=NDU4NDE4MjY0fDU0MTAwOTU2NHwxNjU2NzgyNjg1O
+ zA0OTgzMDE5NTk4NTM0ODU4NjliMjc1MzkzYTYyMzFlNDM5YjdjZmQ1Njg0M
+ zIxMDg4ZTNlYWVjYjVlOTEzYWQ%3D
+DTSTART:20220711T210000Z
+DTEND:20220711T223000Z
+ORGANIZER;CN="Career Engagement Network":mailto:cen-careersw
+ itchers071122@splash.tools
+SUMMARY:Career Switchers: Mastering a Career Change
+DESCRIPTION:This is your unique check-in link: https://cen-c
+ areerswitchers071122.splashthat.com/virtual?guest-access-has
+ h=NDU4NDE4MjY0fDU0MTAwOTU2NHwxNjU2NzgyNjg1OzA0OTgzMDE5NTk4NT
+ M0ODU4NjliMjc1MzkzYTYyMzFlNDM5YjdjZmQ1Njg0MzIxMDg4ZTNlYWVjYj
+ VlOTEzYWQ%3D
+LOCATION:Virtual
+END:VEVENT
+END:VCALENDAR
