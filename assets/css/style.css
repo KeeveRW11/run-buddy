@@ -183,6 +183,11 @@ section {
     background: #fce138;
 }
 
+.step h3 {
+    color: #024e76;
+    font-size: 46px;
+    flex: 1 30%;
+}
 .step img {
    flex: 1 12%;
    margin-right: 20px; 
@@ -196,21 +201,14 @@ section {
     flex: 12;
 }
 
-.step h3 {
-    color: #024e76;
-    font-size: 46px;
-    flex: 1 30%;
-}
-
-.step-text p {
-    color: #39a6b2;
-    font-size: 18px;
-}
-
 .step-text h4 {
     font-size: 26px;
     line-height: 1.5;
     color: #024e76
+}
+.step-text p {
+    color: #39a6b2;
+    font-size: 18px;
 }
 
 .step-info {
@@ -273,14 +271,6 @@ section {
     line-height: 1.3;
 }
 
-.text-left {
-    text-align:left;
-}
-
-.text-right {
-    text-align: right;
-}
-
 
 /* REACH OUT STYLES START */
 .contact {
@@ -322,6 +312,15 @@ section {
 }
 
 /* REACH OUT STYLE ENDS */
+
+.text-left {
+    text-align:left;
+}
+
+.text-right {
+    text-align: right;
+}
+
 .flex-row {
     display: flex;
 }
